@@ -1,9 +1,9 @@
 package edu.cmu.cs.cs214.lab02;
 
-import edu.cmu.cs.cs214.lab02.shapes.base.Shape;
-import edu.cmu.cs.cs214.lab02.shapes.implementations.Circle;
-import edu.cmu.cs.cs214.lab02.shapes.implementations.Rectangle;
-import edu.cmu.cs.cs214.lab02.shapes.implementations.Square;
+import edu.cmu.cs.cs214.lab02.shapes.Shape;
+import edu.cmu.cs.cs214.lab02.shapes.Circle;
+import edu.cmu.cs.cs214.lab02.shapes.Rectangle;
+import edu.cmu.cs.cs214.lab02.shapes.Square;
 
 
 public class Main {
